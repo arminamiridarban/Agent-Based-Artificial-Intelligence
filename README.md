@@ -10,6 +10,7 @@ To make the most of this repository, please read the accompanying documentation 
 1. Breadth-First Search (BFS)
 2. Depth-First Search (DFS)
 3. A* (Using Manhattan distance)
+4. N-Queen Problem (Using BFS)
 
 
 ## Contribution
