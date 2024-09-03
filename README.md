@@ -12,6 +12,7 @@ To make the most of this repository, please read the accompanying documentation 
 3. A* (Using Manhattan distance)
 4. N-Queen Problem (Using BFS)
 5. Constraint Satisfaction Problem (CSP)
+6. Class room (CSP)
 
 ## Contribution
 
