@@ -13,6 +13,7 @@ To make the most of this repository, please read the accompanying documentation 
 4. N-Queen Problem (Using BFS)
 5. Constraint Satisfaction Problem (CSP)
 6. Class room (CSP)
+7. Sudoku (CSP)
 
 ## Contribution
 
