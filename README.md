@@ -11,7 +11,7 @@ To make the most of this repository, please read the accompanying documentation 
 2. Depth-First Search (DFS)
 3. A* (Using Manhattan distance)
 4. N-Queen Problem (Using BFS)
-5. Map Color (CSP, AC3)
+5. Map Color (CSP)
 6. Class room (CSP)
 7. Sudoku (CSP, AC3)
 
