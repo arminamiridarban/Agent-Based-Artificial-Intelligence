@@ -14,6 +14,7 @@ To make the most of this repository, please read the accompanying documentation 
 5. Map Color (CSP)
 6. Class room (CSP)
 7. Sudoku (CSP, AC3)
+8. Min-Max (Tic-Tac-Toe)
 
 
 ## Contribution
